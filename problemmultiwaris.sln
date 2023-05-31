@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solvemultiwaris", "solvemul
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphism", "polymorphism\polymorphism.vcxproj", "{C58ED58B-9ECA-4ACB-8F94-DDEA675158D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program NOoverriding", "program NOoverriding\program NOoverriding.vcxproj", "{90F82FC2-3546-456F-8629-4D7056D52BD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{C58ED58B-9ECA-4ACB-8F94-DDEA675158D4}.Release|x64.Build.0 = Release|x64
 		{C58ED58B-9ECA-4ACB-8F94-DDEA675158D4}.Release|x86.ActiveCfg = Release|Win32
 		{C58ED58B-9ECA-4ACB-8F94-DDEA675158D4}.Release|x86.Build.0 = Release|Win32
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Debug|x64.ActiveCfg = Debug|x64
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Debug|x64.Build.0 = Debug|x64
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Debug|x86.Build.0 = Debug|Win32
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x64.ActiveCfg = Release|x64
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x64.Build.0 = Release|x64
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x86.ActiveCfg = Release|Win32
+		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
