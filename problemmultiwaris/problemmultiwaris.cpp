@@ -18,7 +18,7 @@ public:
 	pekerja(int pumur) :
 		orang(pumur)
 	{
-		cout << "pekerha dibuat\n" << endl;
+		cout << "pekerja dibuat\n" << endl;
 	}
 
 };
