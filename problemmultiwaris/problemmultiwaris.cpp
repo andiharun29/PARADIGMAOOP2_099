@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std std;
+using namespace std;
 
 class orang {
 public:
