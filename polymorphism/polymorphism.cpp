@@ -2,11 +2,12 @@
 using namespace std;
 
 class seseorang {
+public:
 	virtual void pesan() = 0;
-	virtual void pesan() {
-		cout << "pesan dari seseorang" << endl;
-	}
-	virtual void cetak() = 0;
+	//virtual void pesan() {
+		//cout << "pesan dari seseorang" << endl;
+	//}
+	//virtual void cetak() = 0;
 	virtual void cetak() {
 
 	}
@@ -18,7 +19,7 @@ public:
 		cout << "pesan dari joko" << endl;
 	}
 	void cetak() {
-		cout << "pesan dari joko" << endl;
+		cout << "tulisan joko" << endl;
 	}
 };
 
@@ -29,3 +30,17 @@ public:
 	}
 
 };
+
+int main() {
+	seseorang* orang;
+	joko a;
+	lia b;
+
+	orang = &a;
+	orang->pesan();
+	orang = &b;
+	orang->pesan();
+	//a.seseorang::pesan();  //memanggil method yang berada di class orang tua
+	//b.seseorang::pesan();
+
+}
