@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "polymorphism", "polymorphis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program NOoverriding", "program NOoverriding\program NOoverriding.vcxproj", "{90F82FC2-3546-456F-8629-4D7056D52BD1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "program noPewarisan", "program noPewarisan\program noPewarisan.vcxproj", "{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x64.Build.0 = Release|x64
 		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x86.ActiveCfg = Release|Win32
 		{90F82FC2-3546-456F-8629-4D7056D52BD1}.Release|x86.Build.0 = Release|Win32
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Debug|x64.ActiveCfg = Debug|x64
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Debug|x64.Build.0 = Debug|x64
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Debug|x86.Build.0 = Debug|Win32
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Release|x64.ActiveCfg = Release|x64
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Release|x64.Build.0 = Release|x64
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Release|x86.ActiveCfg = Release|Win32
+		{BDAA929A-00E0-410A-BEC3-D99B5CDA1B1B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

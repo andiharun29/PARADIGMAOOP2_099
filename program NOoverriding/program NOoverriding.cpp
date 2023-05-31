@@ -3,9 +3,9 @@ using namespace std;
 
 class baseclass {
 public:
-	//virtual void perkenalan() final {
-		//cout << "halo saya function dari base class";
-	//}
+	virtual void perkenalan() final {
+		cout << "halo saya function dari base class";
+	}
 };
 
 class derivedclass : public baseclass {
