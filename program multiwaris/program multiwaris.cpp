@@ -14,3 +14,16 @@ class orang {
 		cout << "orang dihapus\n" << endl;
 	}
 };
+
+class manusia {
+public:
+	string jeniskelamin;
+
+	manusia(string pjeniskelamin) :
+		jeniskelamin(pjeniskelamin) {
+		cout << "manusia dibuat\n" << endl;
+	}
+	~manusia() {
+		cout << "manusia dihapus\n" << endl;
+	}
+};
